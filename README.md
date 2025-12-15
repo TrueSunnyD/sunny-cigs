@@ -2,7 +2,7 @@
 
 A realistic cigarette smoking system for FiveM with stress relief, puff mechanics, and multi-inventory support.
 
-#Join my discord
+# Join my discord
 
 https://discord.gg/q3Y6ZhTueJ
 
