@@ -1,6 +1,7 @@
 # Sunny Cigs - Installation Guide
 
 A realistic cigarette smoking system for FiveM with stress relief, puff mechanics, and multi-inventory support.
+Discord for more scripts: https://discord.gg/q3Y6ZhTueJ
 
 ## Features
 - ✅ Cigarette pack system with metadata tracking (20 uses per pack)
